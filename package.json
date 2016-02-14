@@ -1,0 +1,30 @@
+{
+  "name": "stockfighter-client",
+  "version": "0.0.1",
+  "description": "a client for stockfighter",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "babel-cli": "^6.5.1",
+    "debug": "^2.2.0",
+    "lodash": "^4.3.0",
+    "superagent": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewblaisdell/stockfighter-client.git"
+  },
+  "keywords": [
+    "stockfighter"
+  ],
+  "author": "drewblaisdell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drewblaisdell/stockfighter-client/issues"
+  },
+  "homepage": "https://github.com/drewblaisdell/stockfighter-client#readme"
+}
