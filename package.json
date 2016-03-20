@@ -1,0 +1,23 @@
+{
+  "name": "stockfighter-client",
+  "version": "0.0.1",
+  "description": "a client for stockfighter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewblaisdell/stockfighter-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewblaisdell/stockfighter-client/issues"
+  },
+  "homepage": "https://github.com/drewblaisdell/stockfighter-client#readme",
+  "devDependencies": {
+    "eslint-plugin-react": "^4.2.3",
+    "webpack": "^1.12.14"
+  }
+}
